@@ -1,0 +1,39 @@
+body {
+  background: #444444;
+}
+
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 40px auto;
+  border-radius: 20px;
+  box-shadow: 2px 4px 6px rgba(28, 6, 49, 0.1);
+  background-color: #BABABA;
+}
+
+.error {
+  color: #8A0000;
+  min-height: 2.0rem;
+  width: 75%;
+  margin: 0 auto;
+  font-size: 14px;
+  visibility: visible;
+}
+
+.hidden {
+  color: #8A0000;
+  min-height: 2.0rem;
+  font-size: 14px;
+  visibility: hidden;
+}
+
+button {
+  text-decoration: none;
+  background: #5b9b90;
+  color: #222222;
+  letter-spacing: 1px;
+  font-weight: bold;
+  border: 1px solid #333333;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
